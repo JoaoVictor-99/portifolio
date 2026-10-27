@@ -1,4 +1,4 @@
-
+// Lista de projetos exibidos na seção Projetos
 const listaProjetos = [
   {
     titulo: "GamesHub Edu",
@@ -9,20 +9,20 @@ const listaProjetos = [
     alt: "Tela inicial do GamesHub Edu com lista de jogos quiz, campo de busca e filtro por matéria."
   },
   {
-    titulo: "Protótipo no Figma",
-    descricao: "Protótipo de interface criado no Figma durante o curso.",
-    tecnologias: ["Figma"],
+    titulo: "RPG Magic Dice",
+    descricao: "Site de rolagem de dados para RPG e venda de RPGs, com página inicial, dados, fichas, livros de regras e campanhas gratuitas.",
+    tecnologias: ["HTML", "CSS", "JavaScript"],
     link: "",
-    imagem: "img/prototipo-figma.svg",
-    alt: "Cartão roxo com o texto Protótipo no Figma, em breve."
+    imagem: "img/rpgmagicdice.png",
+    alt: "Página inicial do RPG Magic Dice com menu, capas das campanhas Realm of Legends e Crônicas de Aetheria e um mago acenando."
   },
   {
-    titulo: "Exercícios de JavaScript",
-    descricao: "Exercícios de lógica e interatividade feitos nas aulas.",
-    tecnologias: ["JavaScript"],
+    titulo: "CineBook",
+    descricao: "Projeto de avaliação de livros e filmes, com tela inicial para iniciar sessão ou criar conta.",
+    tecnologias: ["HTML", "CSS", "JavaScript"],
     link: "",
-    imagem: "img/exercicios-js.svg",
-    alt: "Cartão roxo com o texto Exercícios de JavaScript, em breve."
+    imagem: "img/cinebook.png",
+    alt: "Tela inicial do CineBook com logo de livro e claquete dourados em fundo escuro e botão Iniciar sessão."
   }
 ];
 
